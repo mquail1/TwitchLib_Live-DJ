@@ -1,0 +1,894 @@
+fileFormatVersion: 2
+guid: dfe93ed6fc1c4024c997fef3cc68537b
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Armature
+  - first:
+      1: 100002
+    second: Astronaut
+  - first:
+      1: 100004
+    second: //RootNode
+  - first:
+      1: 100006
+    second: Chest
+  - first:
+      1: 100008
+    second: Head
+  - first:
+      1: 100010
+    second: Head_end
+  - first:
+      1: 100012
+    second: Head_end_end
+  - first:
+      1: 100014
+    second: Hips
+  - first:
+      1: 100016
+    second: Left foot
+  - first:
+      1: 100018
+    second: Left foot_end
+  - first:
+      1: 100020
+    second: Left foot_end_end
+  - first:
+      1: 100022
+    second: Left Hand
+  - first:
+      1: 100024
+    second: Left Hand_end
+  - first:
+      1: 100026
+    second: Left Hand_end_end
+  - first:
+      1: 100028
+    second: Left knee
+  - first:
+      1: 100030
+    second: Left leg
+  - first:
+      1: 100032
+    second: Left Lower Arm
+  - first:
+      1: 100034
+    second: Left Shoulder
+  - first:
+      1: 100036
+    second: Left Upper Arm
+  - first:
+      1: 100038
+    second: Neck
+  - first:
+      1: 100040
+    second: Right foot
+  - first:
+      1: 100042
+    second: Right foot_end
+  - first:
+      1: 100044
+    second: Right foot_end_end
+  - first:
+      1: 100046
+    second: Right Hand
+  - first:
+      1: 100048
+    second: Right Hand_end
+  - first:
+      1: 100050
+    second: Right Hand_end_end
+  - first:
+      1: 100052
+    second: Right knee
+  - first:
+      1: 100054
+    second: Right leg
+  - first:
+      1: 100056
+    second: Right Lower Arm
+  - first:
+      1: 100058
+    second: Right Shoulder
+  - first:
+      1: 100060
+    second: Right Upper Arm
+  - first:
+      1: 100062
+    second: Spine
+  - first:
+      1: 100064
+    second: Body
+  - first:
+      1: 100066
+    second: Head_End
+  - first:
+      1: 100068
+    second: Left arm
+  - first:
+      1: 100070
+    second: Left shoulder
+  - first:
+      1: 100072
+    second: Left wrist
+  - first:
+      1: 100074
+    second: Left_foot
+  - first:
+      1: 100076
+    second: Left_foot_End
+  - first:
+      1: 100078
+    second: Left_Hand_End
+  - first:
+      1: 100080
+    second: Left_Lower_Arm
+  - first:
+      1: 100082
+    second: Right arm
+  - first:
+      1: 100084
+    second: Right shoulder
+  - first:
+      1: 100086
+    second: Right wrist
+  - first:
+      1: 100088
+    second: Right_foot
+  - first:
+      1: 100090
+    second: Right_foot_End
+  - first:
+      1: 100092
+    second: Right_Hand_End
+  - first:
+      1: 100094
+    second: Right_Lower_Arm
+  - first:
+      1: 100096
+    second: Hat Main (Used for animator)
+  - first:
+      1: 100098
+    second: Put any hat you like here
+  - first:
+      1: 100100
+    second: Hat Main (Do not add hat here)
+  - first:
+      1: 100102
+    second: Hat Main (Do not add bouncy props here)
+  - first:
+      1: 100104
+    second: Put any bouncy prop here. Center for best results.
+  - first:
+      1: 100106
+    second: Astronaut Mask
+  - first:
+      1: 100108
+    second: Head_End_end
+  - first:
+      1: 100110
+    second: Left_foot_End_end
+  - first:
+      1: 100112
+    second: Left_Hand_End_end
+  - first:
+      1: 100114
+    second: Put any bouncy prop here. Center for best results._end
+  - first:
+      1: 100116
+    second: Right_foot_End_end
+  - first:
+      1: 100118
+    second: Right_Hand_End_end
+  - first:
+      1: 100120
+    second: Outline
+  - first:
+      1: 100122
+    second: Outline.001
+  - first:
+      1: 100124
+    second: Outline.002
+  - first:
+      4: 400000
+    second: Armature
+  - first:
+      4: 400002
+    second: Astronaut
+  - first:
+      4: 400004
+    second: //RootNode
+  - first:
+      4: 400006
+    second: Chest
+  - first:
+      4: 400008
+    second: Head
+  - first:
+      4: 400010
+    second: Head_end
+  - first:
+      4: 400012
+    second: Head_end_end
+  - first:
+      4: 400014
+    second: Hips
+  - first:
+      4: 400016
+    second: Left foot
+  - first:
+      4: 400018
+    second: Left foot_end
+  - first:
+      4: 400020
+    second: Left foot_end_end
+  - first:
+      4: 400022
+    second: Left Hand
+  - first:
+      4: 400024
+    second: Left Hand_end
+  - first:
+      4: 400026
+    second: Left Hand_end_end
+  - first:
+      4: 400028
+    second: Left knee
+  - first:
+      4: 400030
+    second: Left leg
+  - first:
+      4: 400032
+    second: Left Lower Arm
+  - first:
+      4: 400034
+    second: Left Shoulder
+  - first:
+      4: 400036
+    second: Left Upper Arm
+  - first:
+      4: 400038
+    second: Neck
+  - first:
+      4: 400040
+    second: Right foot
+  - first:
+      4: 400042
+    second: Right foot_end
+  - first:
+      4: 400044
+    second: Right foot_end_end
+  - first:
+      4: 400046
+    second: Right Hand
+  - first:
+      4: 400048
+    second: Right Hand_end
+  - first:
+      4: 400050
+    second: Right Hand_end_end
+  - first:
+      4: 400052
+    second: Right knee
+  - first:
+      4: 400054
+    second: Right leg
+  - first:
+      4: 400056
+    second: Right Lower Arm
+  - first:
+      4: 400058
+    second: Right Shoulder
+  - first:
+      4: 400060
+    second: Right Upper Arm
+  - first:
+      4: 400062
+    second: Spine
+  - first:
+      4: 400064
+    second: Body
+  - first:
+      4: 400066
+    second: Head_End
+  - first:
+      4: 400068
+    second: Left arm
+  - first:
+      4: 400070
+    second: Left shoulder
+  - first:
+      4: 400072
+    second: Left wrist
+  - first:
+      4: 400074
+    second: Left_foot
+  - first:
+      4: 400076
+    second: Left_foot_End
+  - first:
+      4: 400078
+    second: Left_Hand_End
+  - first:
+      4: 400080
+    second: Left_Lower_Arm
+  - first:
+      4: 400082
+    second: Right arm
+  - first:
+      4: 400084
+    second: Right shoulder
+  - first:
+      4: 400086
+    second: Right wrist
+  - first:
+      4: 400088
+    second: Right_foot
+  - first:
+      4: 400090
+    second: Right_foot_End
+  - first:
+      4: 400092
+    second: Right_Hand_End
+  - first:
+      4: 400094
+    second: Right_Lower_Arm
+  - first:
+      4: 400096
+    second: Hat Main (Used for animator)
+  - first:
+      4: 400098
+    second: Put any hat you like here
+  - first:
+      4: 400100
+    second: Hat Main (Do not add hat here)
+  - first:
+      4: 400102
+    second: Hat Main (Do not add bouncy props here)
+  - first:
+      4: 400104
+    second: Put any bouncy prop here. Center for best results.
+  - first:
+      4: 400106
+    second: Astronaut Mask
+  - first:
+      4: 400108
+    second: Head_End_end
+  - first:
+      4: 400110
+    second: Left_foot_End_end
+  - first:
+      4: 400112
+    second: Left_Hand_End_end
+  - first:
+      4: 400114
+    second: Put any bouncy prop here. Center for best results._end
+  - first:
+      4: 400116
+    second: Right_foot_End_end
+  - first:
+      4: 400118
+    second: Right_Hand_End_end
+  - first:
+      4: 400120
+    second: Outline
+  - first:
+      4: 400122
+    second: Outline.001
+  - first:
+      4: 400124
+    second: Outline.002
+  - first:
+      21: 2100000
+    second: Outline
+  - first:
+      21: 2100002
+    second: Astronaut
+  - first:
+      21: 2100004
+    second: Astronaut_backpack
+  - first:
+      21: 2100006
+    second: Astronaut Mask
+  - first:
+      43: 4300000
+    second: Astronaut
+  - first:
+      43: 4300002
+    second: Body
+  - first:
+      43: 4300004
+    second: Astronaut Mask
+  - first:
+      43: 4300006
+    second: Outline
+  - first:
+      43: 4300008
+    second: Outline.001
+  - first:
+      43: 4300010
+    second: Outline.002
+  - first:
+      74: 7400000
+    second: Armature|Armature|Armature|Armature|Armature|Ref|Armature|Ref|Armature|A
+  - first:
+      74: 7400002
+    second: Armature|Armature|Armature|Armature|Armature|Run|Armature|Run|Armature|A
+  - first:
+      74: 7400004
+    second: Armature|Armature|Armature|Armature|Ref|Ref|Armature|Armature|Ref|Ref
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Astronaut
+  - first:
+      137: 13700002
+    second: Body
+  - first:
+      137: 13700004
+    second: Astronaut Mask
+  - first:
+      137: 13700006
+    second: Outline
+  - first:
+      137: 13700008
+    second: Outline.001
+  - first:
+      137: 13700010
+    second: Outline.002
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Astronaut
+    second: {fileID: 2100000, guid: 9d14b7be79cf53748a2a3d0032c02ad1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Astronaut Mask
+    second: {fileID: 2100000, guid: 8364fe8542e492541bdc5b549b10f6da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Astronaut_backpack
+    second: {fileID: 2100000, guid: a0b505d0a9e917f4b8beabdb3b11fdc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Outline
+    second: {fileID: 2100000, guid: 181d4e24b7782e94eb4dfed35a8d27da, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left leg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right leg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left knee
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right knee
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left shoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right shoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left arm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right arm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Lower_Arm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Lower_Arm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left wrist
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right wrist
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: astronaut VRC 3.0(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: astronaut VRC 3.0(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Hips
+      parentName: Armature
+      position: {x: 7.4505804e-11, y: 0.00006626534, z: 0.0014710418}
+      rotation: {x: -0.50000006, y: 0.5000001, z: 0.49999988, w: -0.4999999}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Left leg
+      parentName: Hips
+      position: {x: 0.0000060218663, y: -0.00007982688, z: 0.00037480597}
+      rotation: {x: 0.7177056, y: 0.00747635, z: -0.6962193, w: -0.011025137}
+      scale: {x: 1.0000196, y: 1, z: 1.0002517}
+    - name: Left knee
+      parentName: Left leg
+      position: {x: -1.6734702e-11, y: 0.00054421584, z: 1.7462298e-12}
+      rotation: {x: 0.042045727, y: 0.0062666154, z: -0.0050315084, w: 0.9990834}
+      scale: {x: 1.0000001, y: 1.0000004, z: 0.99999976}
+    - name: Left_foot
+      parentName: Left knee
+      position: {x: 0.00000016885635, y: 0.0005413813, z: -0.0000028277864}
+      rotation: {x: -0.47109655, y: -0.04334937, z: 0.031737786, w: 0.880444}
+      scale: {x: 1, y: 0.99999964, z: 0.9999997}
+    - name: Left_foot_End
+      parentName: Left_foot
+      position: {x: -0.00000026655718, y: 0.00038379504, z: -0.0000044496555}
+      rotation: {x: -0.283921, y: 0.0000014139067, z: 0.015692232, w: 0.9587193}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+    - name: Left_foot_End_end
+      parentName: Left_foot_End
+      position: {x: -0, y: 0.00038388, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right leg
+      parentName: Hips
+      position: {x: 0.0000060218485, y: -0.00007982563, z: -0.00036804026}
+      rotation: {x: -0.69619364, y: 0.013931556, z: 0.7176791, w: -0.007561268}
+      scale: {x: 1.0000025, y: 0.99999976, z: 1.0000312}
+    - name: Right knee
+      parentName: Right leg
+      position: {x: 3.274181e-11, y: 0.0005442157, z: -5.820766e-13}
+      rotation: {x: 0.042054866, y: -0.006266869, z: 0.0050391457, w: 0.999083}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000001}
+    - name: Right_foot
+      parentName: Right knee
+      position: {x: -0.00000016931881, y: 0.0005413868, z: -0.0000028288562}
+      rotation: {x: -0.47115064, y: 0.043343604, z: -0.03182332, w: 0.8804122}
+      scale: {x: 0.9999997, y: 0.99999934, z: 0.9999996}
+    - name: Right_foot_End
+      parentName: Right_foot
+      position: {x: 0.0000002677184, y: 0.00038384608, z: -0.0000044510048}
+      rotation: {x: -0.28387797, y: -0.0000011108117, z: -0.015739264, w: 0.9587313}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000004}
+    - name: Right_foot_End_end
+      parentName: Right_foot_End
+      position: {x: -0, y: 0.00038387967, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine
+      parentName: Hips
+      position: {x: -0.0000038692365, y: 0.00016850994, z: 1.6919715e-13}
+      rotation: {x: 0.0051298365, y: 0.7070881, z: -0.0051298356, w: 0.70708823}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: Chest
+      parentName: Spine
+      position: {x: 3.442252e-12, y: 0.0004138957, z: 3.888272e-10}
+      rotation: {x: 0.0035906162, y: -0.0007447072, z: -0.00072976603, w: 0.999993}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.99999976}
+    - name: Left shoulder
+      parentName: Chest
+      position: {x: -0.00010084914, y: 0.00085507444, z: -0.0000038418366}
+      rotation: {x: 0.5564909, y: -0.50903875, z: -0.49754182, w: -0.42854357}
+      scale: {x: 0.99999976, y: 1.0000002, z: 0.99999994}
+    - name: Left arm
+      parentName: Left shoulder
+      position: {x: -6.7986544e-10, y: 0.00088831445, z: -0.0000000019810977}
+      rotation: {x: 0.02855578, y: 0.192552, z: -0.0030784905, w: 0.98086643}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.99999964}
+    - name: Left_Lower_Arm
+      parentName: Left arm
+      position: {x: -0.0000000017136335, y: 0.0007921759, z: 0.0000000011466909}
+      rotation: {x: -0.011467178, y: 0.06805151, z: 0.021409938, w: 0.9973862}
+      scale: {x: 0.9999998, y: 0.99999976, z: 1}
+    - name: Left wrist
+      parentName: Left_Lower_Arm
+      position: {x: 4.4703483e-10, y: 0.0007325857, z: -2.3748725e-10}
+      rotation: {x: -0.010860702, y: 0.10165221, z: -0.10783612, w: 0.98889846}
+      scale: {x: 1.0000001, y: 1, z: 0.9999997}
+    - name: Left_Hand_End
+      parentName: Left wrist
+      position: {x: 0.0000000022538005, y: 0.00073413906, z: 0.000000004856847}
+      rotation: {x: 0.00000031711534, y: -0.00000022724271, z: 0.00000002910383, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Left_Hand_End_end
+      parentName: Left_Hand_End
+      position: {x: -0, y: 0.0007341359, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Neck
+      parentName: Chest
+      position: {x: 0.000000023603333, y: 0.0008316719, z: 0.0000014674989}
+      rotation: {x: 0.008812812, y: 0.015831476, z: 0.015474639, w: 0.9997161}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.9999997}
+    - name: Head
+      parentName: Neck
+      position: {x: 0.0000002979608, y: 0.00005642066, z: 0.0000039830556}
+      rotation: {x: 0.048317477, y: -0.015896138, z: -0.013868833, w: 0.99860924}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1}
+    - name: Hat Main (Do not add bouncy props here)
+      parentName: Head
+      position: {x: -0.000055674096, y: 0.0016262105, z: -0.00018279025}
+      rotation: {x: -0.0679549, y: 0.000000004468737, z: 0.000000014261638, w: 0.9976884}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Put any bouncy prop here. Center for best results.
+      parentName: Hat Main (Do not add bouncy props here)
+      position: {x: -9.999823e-12, y: 0.00015174778, z: 7.3014056e-10}
+      rotation: {x: -0.0020078134, y: 0.043164626, z: 0.010759971, w: 0.999008}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: Put any bouncy prop here. Center for best results._end
+      parentName: Put any bouncy prop here. Center for best results.
+      position: {x: -0, y: 0.00015174269, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_End
+      parentName: Head
+      position: {x: -6.489259e-11, y: 0.00017362436, z: 0.0000010753865}
+      rotation: {x: -0.48680988, y: -0.0000000014323934, z: -2.8106675e-10, w: 0.873508}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Head_End_end
+      parentName: Head_End
+      position: {x: -0, y: 0.00090550823, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right shoulder
+      parentName: Chest
+      position: {x: 0.00009835017, y: 0.00085536734, z: -0.000004140398}
+      rotation: {x: 0.5564954, y: 0.50920695, z: 0.49608466, w: -0.43002462}
+      scale: {x: 0.9999997, y: 0.99999994, z: 0.9999997}
+    - name: Right arm
+      parentName: Right shoulder
+      position: {x: 3.259629e-10, y: 0.00088831666, z: 0.000000006677583}
+      rotation: {x: 0.02855961, y: -0.19254929, z: 0.0030774772, w: 0.9808668}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Right_Lower_Arm
+      parentName: Right arm
+      position: {x: -6.0303135e-10, y: 0.0007921927, z: -0.0000000026245834}
+      rotation: {x: -0.011469416, y: -0.06804873, z: -0.02140925, w: 0.99738634}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: Right wrist
+      parentName: Right_Lower_Arm
+      position: {x: -2.0489097e-10, y: 0.0007325779, z: 6.0535965e-11}
+      rotation: {x: -0.010860126, y: -0.1016568, z: 0.10783495, w: 0.98889816}
+      scale: {x: 0.9999999, y: 0.99999964, z: 0.99999994}
+    - name: Right_Hand_End
+      parentName: Right wrist
+      position: {x: -9.778887e-11, y: 0.0007341361, z: 9.3132255e-12}
+      rotation: {x: -0.00000001915032, y: -0.00000008195639, z: 0.00000019563596,
+        w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: Right_Hand_End_end
+      parentName: Right_Hand_End
+      position: {x: -0, y: 0.00073413574, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body
+      parentName: astronaut VRC 3.0(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

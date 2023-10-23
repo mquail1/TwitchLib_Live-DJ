@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: a3cc3f4c3d78d8a41aca4105a0a1a004
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bip_foot_L
+    100002: bip_foot_R
+    100004: bip_head
+    100006: bip_head_end
+    100008: bip_hip_L
+    100010: bip_hip_R
+    100012: bip_knee_L
+    100014: bip_knee_R
+    100016: bip_neck
+    100018: bip_pelvis
+    100020: bip_spine
+    100022: bip_spine_1
+    100024: bip_toe_L
+    100026: bip_toe_L_end
+    100028: bip_toe_R
+    100030: bip_toe_R_end
+    100032: Camera
+    100034: //RootNode
+    100036: eggdog.qc_skeleton
+    100038: eggdog_egg
+    100040: Lamp
+    400000: bip_foot_L
+    400002: bip_foot_R
+    400004: bip_head
+    400006: bip_head_end
+    400008: bip_hip_L
+    400010: bip_hip_R
+    400012: bip_knee_L
+    400014: bip_knee_R
+    400016: bip_neck
+    400018: bip_pelvis
+    400020: bip_spine
+    400022: bip_spine_1
+    400024: bip_toe_L
+    400026: bip_toe_L_end
+    400028: bip_toe_R
+    400030: bip_toe_R_end
+    400032: Camera
+    400034: //RootNode
+    400036: eggdog.qc_skeleton
+    400038: eggdog_egg
+    400040: Lamp
+    2000000: Camera
+    2100000: eggdog
+    4300000: eggdog_egg
+    7400000: eggdog.qc_skeleton|idle
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: eggdog_egg
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eggdog
+    second: {fileID: 2100000, guid: 32d0ee632cf1c4942ae255a3bedb09d9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: eggdog.qc_skeleton
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_hip_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_hip_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_knee_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_knee_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_foot_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_foot_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_spine_1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_toe_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_toe_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: EggDog(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Camera
+      parentName: EggDog(Clone)
+      position: {x: -7.4811316, y: 5.343665, z: 6.5076394}
+      rotation: {x: 0.0906284, y: 0.8937962, z: -0.20997299, w: 0.38577998}
+      scale: {x: 100, y: 100.00001, z: 99.99999}
+    - name: eggdog.qc_skeleton
+      parentName: EggDog(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: bip_pelvis
+      parentName: eggdog.qc_skeleton
+      position: {x: -0, y: 0.00043120986, z: 0.007885739}
+      rotation: {x: 0.77897197, y: -0.00000016161665, z: 0.0000017955166, w: 0.62705874}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: bip_spine
+      parentName: bip_pelvis
+      position: {x: 1.4921397e-15, y: 0.0013898304, z: -3.726193e-11}
+      rotation: {x: -0.05466773, y: 7.116069e-15, z: -3.9138377e-14, w: 0.9985046}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bip_spine_1
+      parentName: bip_spine
+      position: {x: 1.205147e-15, y: 0.0012420595, z: 1.5830887e-10}
+      rotation: {x: -0.07025059, y: 1.9588323e-14, z: -4.8080412e-14, w: 0.9975294}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: bip_neck
+      parentName: bip_spine_1
+      position: {x: -3.2507329e-15, y: 0.0024732691, z: 9.285736e-12}
+      rotation: {x: 0.15932417, y: -1.799335e-15, z: -3.7786167e-14, w: 0.98722637}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: bip_head
+      parentName: bip_neck
+      position: {x: -4.973799e-16, y: 0.001002179, z: 5.214941e-10}
+      rotation: {x: -0.1421469, y: -3.26973e-14, z: -9.006745e-15, w: 0.9898456}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bip_head_end
+      parentName: bip_head
+      position: {x: -0, y: 0.00002968192, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bip_hip_L
+      parentName: bip_pelvis
+      position: {x: -0.00136613, y: 0.00054535986, z: 0.00022301999}
+      rotation: {x: 0.9893778, y: 1.2219768e-13, z: 2.9327436e-13, w: 0.14536707}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bip_knee_L
+      parentName: bip_hip_L
+      position: {x: -8.712856e-11, y: 0.004190219, z: -1.0481926e-11}
+      rotation: {x: 0.087541334, y: -3.5664072e-15, z: -3.5664065e-14, w: 0.9961609}
+      scale: {x: 1, y: 0.9999999, z: 0.99999976}
+    - name: bip_foot_L
+      parentName: bip_knee_L
+      position: {x: -2.9473474e-10, y: 0.0035484098, z: -2.0100685e-11}
+      rotation: {x: -0.52736306, y: -0.00000026368156, z: 0.00000042481986, w: 0.8496401}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bip_toe_L
+      parentName: bip_foot_L
+      position: {x: -8.5300725e-11, y: 0.00100969, z: -9.5272484e-11}
+      rotation: {x: 0.000000009769356, y: 0.9612486, z: -0.27568313, w: -0.0000005569064}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: bip_toe_L_end
+      parentName: bip_toe_L
+      position: {x: -0, y: 0.000029681622, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bip_hip_R
+      parentName: bip_pelvis
+      position: {x: 0.00136613, y: 0.00054536015, z: 0.00022301998}
+      rotation: {x: 0.9893778, y: 1.2219768e-13, z: 2.9327436e-13, w: 0.14536707}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bip_knee_R
+      parentName: bip_hip_R
+      position: {x: -8.709268e-11, y: 0.004190219, z: 2.9064608e-11}
+      rotation: {x: 0.087541334, y: -3.5664072e-15, z: -3.5664065e-14, w: 0.9961609}
+      scale: {x: 1, y: 0.9999999, z: 0.99999976}
+    - name: bip_foot_R
+      parentName: bip_knee_R
+      position: {x: -1.4568709e-10, y: 0.0035484096, z: -1.259707e-11}
+      rotation: {x: -0.52736306, y: -1.6725736e-14, z: -1.6725734e-14, w: 0.8496401}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bip_toe_R
+      parentName: bip_foot_R
+      position: {x: 1.12758615e-10, y: 0.00100969, z: -2.1539392e-11}
+      rotation: {x: -0.27568284, y: 1.5206547e-14, z: 8.8108164e-14, w: 0.96124864}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: bip_toe_R_end
+      parentName: bip_toe_R
+      position: {x: -0, y: 0.000029681622, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eggdog_egg
+      parentName: EggDog(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Lamp
+      parentName: EggDog(Clone)
+      position: {x: -4.0762453, y: 5.903862, z: -1.005454}
+      rotation: {x: 0.52327543, y: -0.34203398, z: 0.72694236, w: 0.28416628}
+      scale: {x: 100.00001, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
